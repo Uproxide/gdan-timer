@@ -51,7 +51,3 @@ void GDANTimer::doCountdownThing() {
 void GDANTimer::update(float dt) {
     doCountdownThing();
 }
-
-GDANTimer::~GDANTimer() {
-    // do nothing
-}

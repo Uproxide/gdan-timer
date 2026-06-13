@@ -24,8 +24,6 @@ public:
     bool gdanIsStarted = false;
     bool gdanIsFinished = false;
 
-    ~GDANTimer();
-
 protected:
     bool init();
 
