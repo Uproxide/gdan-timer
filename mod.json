@@ -1,0 +1,22 @@
+{
+	"geode": "5.7.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "uproxide.gdan-timer",
+	"name": "GDAN Timer",
+	"version": "v3.0.0",
+	"developers": [ "Uproxide", "Herozer" ],
+	"description": "Countdown Timer for GDAN",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	},
+	"links": {
+		"homepage": "https://gdallnighter.com/",
+		"community": "https://discord.gg/mUTpD5hsWH",
+		"source": "https://github.com/uproxide/gdan-timer"
+	}
+}
